@@ -1,10 +1,10 @@
-# Clawdbot Gmail Integration
+# POSfromMolt - Clawdbot Gmail Integration
 
-Welcome to the Clawdbot Gmail integration service for personal email management.
+Welcome to the POSfromMolt Gmail integration service for personal email management.
 
 ## About
 
-Clawdbot is an AI assistant platform that enables users to manage their Gmail inbox through natural language commands. This service allows you to clean, organize, and manage your Gmail account efficiently.
+POSfromMolt is an AI assistant platform that enables users to manage their Gmail inbox through natural language commands. This service allows you to clean, organize, and manage your Gmail account efficiently.
 
 ## Features
 
@@ -22,11 +22,11 @@ Clawdbot is an AI assistant platform that enables users to manage their Gmail in
 
 ## Security
 
-Your privacy and security are our top priorities. All data is processed securely according to our privacy policy.
+Your privacy and security are our top priorities. All data is processed securely according to our [Privacy Policy](privacy-policy).
 
 ## Getting Started
 
-To begin using Clawdbot with Gmail, visit the main Clawdbot application and follow the setup instructions.
+To begin using POSfromMolt with Gmail, visit the main Clawdbot application and follow the setup instructions.
 
 ## Contact
 
