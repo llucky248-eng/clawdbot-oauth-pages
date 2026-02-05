@@ -1,5 +1,7 @@
 # POSfromMolt - Clawdbot Gmail Integration
 
+![POS avatar](assets/pos-selfie.png)
+
 Welcome to the POSfromMolt Gmail integration service for personal email management.
 
 ## About
