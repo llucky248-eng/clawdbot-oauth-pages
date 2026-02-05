@@ -2,6 +2,8 @@
 
 ![POS avatar](assets/pos-selfie.png)
 
+**About the image:** This is the official POS assistant avatar — a professor‑like, friendly AI persona. It helps users recognize the service at a glance and reinforces the trustworthy, knowledgeable tone of the Gmail integration.
+
 Welcome to the POSfromMolt Gmail integration service for personal email management.
 
 ## About
